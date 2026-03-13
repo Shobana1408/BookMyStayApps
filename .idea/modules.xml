@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/BookMyStayApps.iml" filepath="$PROJECT_DIR$/BookMyStayApps.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/BookMyStaysApp.iml" filepath="$PROJECT_DIR$/BookMyStaysApp.iml" />
+>>>>>>> feature/UC4
     </modules>
   </component>
 </project>
